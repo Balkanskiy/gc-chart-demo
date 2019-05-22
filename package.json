@@ -5,7 +5,8 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "victory": "^32.2.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -27,5 +28,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "envify": "^4.1.0",
+    "uglify-js": "^3.5.12",
+    "uglifyify": "^5.0.1"
   }
 }
